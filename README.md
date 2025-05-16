@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wajid Ali</h1>
 <h3 align="center">As a dedicated software engineering student, I am passionate about developing innovative solutions and building a strong foundation in technology. With hands-on experience in programming languages like Java, HTML, Python, and C++, I enjoy tackling complex problems and continuously expanding my technical skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajid45&label=Profile%20views&color=0e75b6&style=flat" alt="wajid45" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wajid45" alt="wajid45" /></a> </p>
 
 - 🔭 I’m currently working on **Growvy Website**
 
