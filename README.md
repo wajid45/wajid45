@@ -2,8 +2,6 @@
 <h3 align="center">As a dedicated software engineering student, I am passionate about developing innovative solutions and building a strong foundation in technology. With hands-on experience in programming languages like Java, HTML, Python, and C++, I enjoy tackling complex problems and continuously expanding my technical skills.</h3>
 
 
-- 🔭 I’m currently working on **Growvy Website**
-
 - 🌱 I’m currently learning **React Js, Node Js**
 
 - 👯 I’m looking to collaborate on **Agentic Ai**
