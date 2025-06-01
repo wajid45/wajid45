@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **Agentic Ai**
 
-- 🤝 I’m looking for help with **Website Development**
+- 🤝 I’m looking for help with **Agent Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/wajid45/wajid45](https://github.com/wajid45/wajid45)
 
